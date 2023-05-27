@@ -1,0 +1,33 @@
+.box1{
+    text-align: center;
+    background-color: #f1f1f1;
+    border: 2px dashed;
+    padding: 45px 50px;
+    font-size: 30px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+     }
+.box2{
+    background-color: green;
+    padding: 45px 50px;
+    font-size: 30px;
+    padding-bottom: 80px;
+    margin-top:20px;
+    padding-left: 80px;
+    padding-right: 80px;
+ }
+.box3{
+    background-color: #f1f1f1;
+    padding: 45px 50px;
+    padding-bottom: 80px;
+    margin-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.box4{
+    background-color: white;
+    padding: 45px 50px;
+    border: 2px dashed;
+    margin-top: 20px;
+}
